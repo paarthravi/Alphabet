@@ -22,6 +22,7 @@ function App() {
 
     return (
         <>
+        <h1>We are just doing Pull And Push on Git.</h1>
         <GoogleOAuthProvider clientId="906951849990-aga1f4remf58ios1gbe66jc9gk6g63e0.apps.googleusercontent.com">
         <GoogleLoginComponent/>
         </GoogleOAuthProvider>
